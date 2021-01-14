@@ -8,6 +8,6 @@ public class Program
 string age = Console.In.ReadLine();
 		int age1 = int.Parse(age);
 		int result = 2021 - age1;
-Console.WriteLine("Your Age Is: " + result);
+Console.WriteLine("Your Date Of Birth Is: " + result);
 	}
 }
